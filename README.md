@@ -1,6 +1,6 @@
 # github-labels
 
-:thumbups: Github Label Generator
+Make Github Labels look awesome
 
 ## Usage
 
@@ -14,5 +14,10 @@ npm start
 Or start manual with
 
 ```
-node process.env.TOKEN=yourTokenKey process.env.REPO=username/repo app.js
+TOKEN=yourTokenKey REPO=username/repo node app.js
 ```
+
+
+Inspired by
+
+- [Sane GitHub Labels](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63#.c1xq2om14)
