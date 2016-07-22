@@ -1,0 +1,11 @@
+{
+  "name": "github-labels",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "git-label": "^4.1.1"
+  }
+}
