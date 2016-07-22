@@ -19,6 +19,7 @@ Or start manual with
 TOKEN=yourTokenKey REPO=username/repo node app.js
 ```
 
-Inspired by
+## Credits
 
 - [Sane GitHub Labels](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63#.c1xq2om14)
+- [git-label](https://github.com/jasonbellamy/git-label)
