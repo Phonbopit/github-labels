@@ -1,6 +1,6 @@
 # github-labels
 
-<img src="https://github.com/Phonbopit/github-labels/blob/master/labels.png" alt="Cover" width="300">
+<img src="https://github.com/Phonbopit/github-labels/blob/master/labels.png" alt="Cover" width="150">
 
 Make Github Labels look awesome or see [demo](https://github.com/Phonbopit/github-labels/labels)
 
@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-> Note: `.env` file contains github `repo` and `token`
+> Note: `.env` file contains github `repo` and `token` you can [generated token here](https://github.com/settings/tokens)
 
 Or start manual with
 
