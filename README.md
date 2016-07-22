@@ -1,8 +1,8 @@
 # github-labels
 
-![Cover](labels.png)
+![Cover](labels.png =300x)
 
-Make Github Labels look awesome
+Make Github Labels look awesome or see [demo](https://github.com/Phonbopit/github-labels/labels)
 
 ## Usage
 
