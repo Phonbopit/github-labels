@@ -1,5 +1,7 @@
 # github-labels
 
+![Cover](labels.png)
+
 Make Github Labels look awesome
 
 ## Usage
@@ -16,7 +18,6 @@ Or start manual with
 ```
 TOKEN=yourTokenKey REPO=username/repo node app.js
 ```
-
 
 Inspired by
 

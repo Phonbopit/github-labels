@@ -1,6 +1,20 @@
 {
   "labels": [
-    { "name": "aaaaa", "color": "#fc2929" },
-    { "name": "bbbbb", "color": "#cccccc" }
+    { "name": "Priority : High", "color": "#e74c3c" },
+    { "name": "Priority : Normal", "color": "#f1c40f" },
+    { "name": "Priority : Low", "color": "#27ae60" },
+    { "name": "Status : Done", "color": "#27ae60" },
+    { "name": "Status : In Review", "color": "#9b59b6" },
+    { "name": "Status : In Progress", "color": "#3498db" },
+    { "name": "Type : Bug", "color": "#e74c3c" },
+    { "name": "Type : Enhancement", "color": "#3498db" },
+    { "name": "Type : Feature", "color": "#27ae60" },
+    { "name": "Type : Question", "color": "#9b59b6" },
+    { "name": "Type : Invalid", "color": "#ecf0f1" },
+    { "name": "Tag : Backend API", "color": "#2c3e50" },
+    { "name": "Tag : Android", "color": "#16a085" },
+    { "name": "Tag : iOS", "color": "#3498db" },
+    { "name": "Tag : Design", "color": "#8e44ad" },
+    { "name": "Tag : Frontend", "color": "#e67e22" }
   ]
 }
